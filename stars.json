@@ -1,20 +1,20 @@
 [
   {
     "full_name": "celery/celery",
-    "stargazers_count": 19720,
-    "open_issues_count": 555,
-    "forks_count": 4320
+    "stargazers_count": 19739,
+    "open_issues_count": 554,
+    "forks_count": 4323
   },
   {
     "full_name": "tiangolo/sqlmodel",
-    "stargazers_count": 7702,
-    "open_issues_count": 227,
-    "forks_count": 322
+    "stargazers_count": 7719,
+    "open_issues_count": 228,
+    "forks_count": 323
   },
   {
     "full_name": "chatwoot/chatwoot",
-    "stargazers_count": 13187,
-    "open_issues_count": 633,
-    "forks_count": 1660
+    "stargazers_count": 13205,
+    "open_issues_count": 632,
+    "forks_count": 1662
   }
 ]
